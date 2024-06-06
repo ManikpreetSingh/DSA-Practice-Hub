@@ -1,4 +1,9 @@
+// Ques link -> https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/0
 // Allocate minimum number of pages
+// You don't need to read input or print anything. Your task is to complete the function findPages() which takes 2 Integers N, and m and an array A[] of length N 
+// as input and returns the expected answer.
+// Expected Time Complexity: O(NlogN)
+// Expected Auxilliary Space: O(1)
 // Note: Return -1 if a valid assignment is not possible, and allotment should be in contiguous order.
 
 
